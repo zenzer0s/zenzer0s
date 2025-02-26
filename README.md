@@ -16,17 +16,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zenzer0s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenzer0s&show_icons=true&locale=en&layout=compact" alt="zenzer0s" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzer0s&show_icons=true&locale=en" alt="zenzer0s" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzer0s&" alt="zenzer0s" /></p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
