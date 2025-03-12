@@ -1,19 +1,81 @@
-# Hi there, I'm Praveen Zalaki! 👋🚀
-# 💫 About Me:
-🎓 Engineering Student | Aspiring DevOps & Cloud Engineer<br>💡 Passionate about automation, cloud, and Android development<br>🔥 Exploring DevOps, SRE, and Cloud technologies<br>📱 Love working on Android OS & App Development<br>🌱 Currently learning C, Python, Java, Kotlin
+<h1 align="center"> Hi 👋, I'm Praveen Zalaki </br> 
+</h1>
+<p align="center">Transforming ideas into automated solutions ⚡</p>
+<p align="center">Building the DevOps future, one deployment at a time 🚀</p>
+<p align="center">
+<a href="mailto:praveenzalaki.arc@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/praveen-zalaki-72b275351" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/zenzer0s" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
+## Creation 👨‍💻
+
+### ScrapeGenie
+[ScrapeGenie](https://github.com/zenzer0s/ScrapeGenie.git) is a powerful URL scraping system with Telegram integration that intelligently extracts rich metadata from YouTube, Instagram, Pinterest, and general websites. The backend leverages Puppeteer and Axios for efficient web scraping, while the Telegram bot delivers beautifully formatted results with interactive inline actions.
+
+<p align="right">
+.. working on more exciting projects 😉 </p>
+
+## Tech Stack 💻
+#### Languages
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+#### JS Framework/Library
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=green)
+
+#### CSS Framework/Library
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+
+#### Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0072C6)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+#### DevOps Tools
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform&logoColor=5835CC)
+![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### Design Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+``` java
+while(motivation > 0) {
+    code();
+    learn();
+    automate();
+    if(coffee.isEmpty()) {
+        refill();
+    }
+}
+// - Praveen Zalaki
+```
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=zenzer0s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenzer0s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=zenzer0s&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-zalaki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenzalaki.arc@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zenzer0s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zenzer0s&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenzer0s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### Thanks for Visiting my GitHub Profile!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zenzer0s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
+<p align="center">
+<img src="https://github.com/zenzer0s/zenzer0s/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcountpro.netlify.app/api?id=zenzer0s&pretty=true)](https://visitcount.itsvg.in)
