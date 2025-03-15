@@ -23,7 +23,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
