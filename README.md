@@ -60,10 +60,7 @@ while(motivation > 0) {
 // - Praveen Zalaki
 ```
 
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=zenzer0s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenzer0s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
 
 ## GitHub Streaks 🔥
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=zenzer0s&theme=jolly&date_format=j%20M%5B%20Y%5D)
