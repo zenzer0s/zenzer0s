@@ -5,12 +5,13 @@
 <p align="center">
 <a href="mailto:praveenzalaki.arc@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/praveen-zalaki-72b275351" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/zenzer0s" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="https://instagram.com/zenzer0s" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+</p>
 
 ## Creation 👨‍💻
 
 ### ScrapeGenie
-[ScrapeGenie](https://github.com/zenzer0s/ScrapeGenie.git) is a powerful URL scraping system with Telegram integration that intelligently extracts rich metadata from YouTube, Instagram, Pinterest, and general websites. The backend leverages Puppeteer and Axios for efficient web scraping, while the Telegram bot delivers beautifully formatted results with interactive inline actions.
+[ScrapeGenie](https://github.com/zenzer0s/ScrapeGenie.git) is a powerful URL scraping system with Telegram integration that intelligently extracts rich metadata from YouTube, Instagram, Pinterest, and more.
 
 <p align="right">
 .. working on more exciting projects 😉 </p>
@@ -24,19 +25,16 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### JS Framework/Library
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=green)
-
-#### CSS Framework/Library
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-
-#### Cloud Platforms
+#### Cloud Platforms & Tools
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0072C6)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku&logoColor=430098)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
+![Linode](https://img.shields.io/badge/-Linode-000?style=for-the-badge&logo=linode&logoColor=00A95C)
+![OpenStack](https://img.shields.io/badge/-OpenStack-000?style=for-the-badge&logo=openstack&logoColor=ED1944)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 #### DevOps Tools
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=0db7ed)
@@ -44,6 +42,12 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform&logoColor=5835CC)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/-Grafana-000?style=for-the-badge&logo=grafana&logoColor=F46800)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?style=for-the-badge&logo=argo&logoColor=F16061)
+![Helm](https://img.shields.io/badge/-Helm-000?style=for-the-badge&logo=helm&logoColor=0F1689)
+![Vault](https://img.shields.io/badge/-Vault-000?style=for-the-badge&logo=vault&logoColor=000000)
 
 #### Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
@@ -60,12 +64,8 @@ while(motivation > 0) {
 // - Praveen Zalaki
 ```
 
-
-
 ## GitHub Streaks 🔥
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=zenzer0s&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-
 
 ### Thanks for Visiting my GitHub Profile!
 
