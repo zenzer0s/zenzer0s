@@ -20,7 +20,6 @@
 #### Languages
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -32,9 +31,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku&logoColor=430098)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
-![Linode](https://img.shields.io/badge/-Linode-000?style=for-the-badge&logo=linode&logoColor=00A95C)
-![OpenStack](https://img.shields.io/badge/-OpenStack-000?style=for-the-badge&logo=openstack&logoColor=ED1944)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+
 
 #### DevOps Tools
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=0db7ed)
@@ -46,8 +43,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-000?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?style=for-the-badge&logo=argo&logoColor=F16061)
-![Helm](https://img.shields.io/badge/-Helm-000?style=for-the-badge&logo=helm&logoColor=0F1689)
-![Vault](https://img.shields.io/badge/-Vault-000?style=for-the-badge&logo=vault&logoColor=000000)
+
 
 #### Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
