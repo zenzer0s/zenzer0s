@@ -41,18 +41,6 @@
 #### Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-``` java
-while(motivation > 0) {
-    code();
-    learn();
-    automate();
-    if(coffee.isEmpty()) {
-        refill();
-    }
-}
-// - Praveen Zalaki
-```
-
 ---
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=zenzer0s&theme=jolly&date_format=j%20M%5B%20Y%5D)
 ---
