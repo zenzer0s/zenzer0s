@@ -44,12 +44,6 @@
 
 ---
 
-## GitHub Stats
-
-![Stars](https://img.shields.io/badge/GitHub%20Stars-200%2B-yellow?style=flat-square)
-
----
-
 ## Technical Skills
 
 **Languages:** Kotlin, Java, Dart, C, Rust (familiarity)
