@@ -63,3 +63,9 @@
 **Security:** Cybersecurity (basics), Reverse Engineering
 
 **Tools/Platforms:** Linux (advanced), Git, Automation, DevOps (basics)
+
+---
+
+<img src="https://img.shields.io/github/stars/zenzer0s?label=Stars" alt="stars">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenzer0s&theme=tokyonight" alt="mystreak"/>
